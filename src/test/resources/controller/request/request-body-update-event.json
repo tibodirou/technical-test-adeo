@@ -1,0 +1,16 @@
+{
+  "title": "Updated Event Title",
+  "imgUrl": "img/example.jpeg",
+  "bands": [
+    {
+      "name": "Updated Band Name",
+      "members": [
+        {
+          "name": "Updated Member Name"
+        }
+      ]
+    }
+  ],
+  "nbStars": 5,
+  "comment": "Updated comment for the event"
+}
